@@ -5,7 +5,7 @@
     <strong>Base de conhecimento interativa para desmistificar a terminologia técnica em inglês.</strong>
   </p>
   <p>
-    <a href="https://therazorbill.github.io/Projeto-Alura/">Demonstração Online</a> &mdash;
+    <a href="https://therazorbill.github.io/Projeto-English-For-Devs/">Demonstração Online</a> &mdash;
     <a href="#instalação-e-execução">Instalação</a> &mdash;
     <a href="#tecnologias">Tecnologias</a> &mdash;
     <a href="https://www.linkedin.com/posts/rahian_imersaodev-alura-google-activity-7397683441284227072-mKPO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF1UHTwBdBvj9-F35R6dEvdyWwvHntOgPIk
